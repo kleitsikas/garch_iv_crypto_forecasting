@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints
+datadownload.py
+/old_datasets/
+/old_result_figures/
